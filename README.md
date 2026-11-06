@@ -1,4 +1,4 @@
-﻿# aws-lab-s3-static-website
+﻿# Lab AWS - Hospedagem de Site Estatico no Amazon S3 com AWS CLI
 
 Lab prÃ¡tico â€” Hospedagem de site estÃ¡tico no Amazon S3 com AWS CLI
 Escola da Nuvem Â· AWS re/Start
