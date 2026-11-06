@@ -1,5 +1,5 @@
-﻿#!/bin/bash
-# deploy.sh â€” Sincroniza arquivos locais com o bucket S3
+#!/bin/bash
+# deploy.sh  Sincroniza arquivos locais com o bucket S3
 
 BUCKET=$1
 
